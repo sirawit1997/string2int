@@ -1,5 +1,3 @@
-package Appman;
-
 import javafx.event.EventDispatchChain;
 
 import java.util.ArrayList;

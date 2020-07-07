@@ -1,5 +1,3 @@
-package Appman;
-
 import java.util.Scanner;
 
 ////////////////  Sirawit Uppakan K.moei  /////////////////
